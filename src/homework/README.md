@@ -1,12 +1,18 @@
 # Homework <NUMBER>: <SUBJECT>
 
+<!-- TODO: Update session number and subject. --->
+
 ## Assignment
 
 Each problem below should be implemented as a separate class in the `homework` package, unless otherwise instructed.
 
-### Q<NUMBER>. <CLASS>.java
+<!-- TODO: Insert question number and link to implementation here. --->
 
-<QUESTIONDETAILS>
+### Q`#`. `ClassName`.java
+
+<!-- TODO: Insert question details here. --->
+
+`Question details...`.
 
 ## Deliverable
 

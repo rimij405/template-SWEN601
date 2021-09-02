@@ -5,9 +5,15 @@ course: "SWEN 601.02"
 instructor: "Professor Amal Chaaben"
 ---
 
+<!-- TODO: Update metadata information. --->
+
+This is a template repository.
+
 ## Overview
 
-The goal of this assignment is to `insert goal here...`.
+<!-- TODO: Insert goal of the project here. --->
+
+The goal of this assignment is to `[insert goal here]...`.
 
 ## Table of Contents
 
@@ -15,11 +21,15 @@ This repository contains two packages: `activities` and `homework`.
 
 The [`activities`](/src/activities/README.md) package contains:
 
-- TBD...
+<!-- TODO: Insert links to activities here. --->
+
+- `[TBD]...`
 
 The [`homework`](/src/homework/README.md) package contains:
 
-- TBD...
+<!-- TODO: Insert links to assignments here. --->
+
+- `[TBD]...`
 
 ## Folder Structure
 
