@@ -31,6 +31,13 @@ The [`homework`](/src/homework/README.md) package contains:
 
 - `[TBD]...`
 
+The [`utilities`](/src/utilities/README.md) package contains:
+
+- [`Assertions`.java](/src/utilities/Assertions.java)
+- [`Console`.java](/src/utilities/Console.java)
+- [`Formatter`.java](/src/utilities/Formatter.java)
+- [`SortUtilities`.java](/src/utilities/SortUtilities.java)
+
 ## Folder Structure
 
 - `src`: The folder to maintain sources
